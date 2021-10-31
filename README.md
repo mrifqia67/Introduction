@@ -7,6 +7,6 @@
 - 📫 How to reach me :
       - Linkedin : inkedin.com/in/mrifqi67/
       
-Hello githubers, perkenalkan nama lengkap saya Muhammad Rifqi A'la. Saya merupakan lulusan Statistika, Universitas Padjadjaran. Saya dinyatakan lulus pada tanggal 14 Februari 2020 dan melakukan wisuda pada tanggal 5 Agustus 2020 secara daring. Saya suka banget dengan analisis data dan saya orangnya penasaran banget hehee.
+Hello githubers, perkenalkan nama lengkap saya Muhammad Rifqi A'la. Saya merupakan lulusan Statistika, Universitas Padjadjaran. Saya dinyatakan lulus pada tanggal 14 Februari 2020 dan melakukan wisuda pada tanggal 5 Agustus 2020 secara daring. Saya biasanya menggunakan R Studio, MySQL, dan Python dalam pengolahan data. Saya suka banget dengan analisis data dan saya orangnya penasaran banget hehee.
 
 Semua kode yang Saya pernah buat disini, pure karena saya modify it. Ada 2 programmer, yang satu adalah create the code dan yang kedua adalah modify the code. Feel free to share all my code that i had created here, karena Saya juga lagi belajar dan sangat senang bisa membantu walaupun hanya sedikit. GoodLuck and Happy Learning :)
