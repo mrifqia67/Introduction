@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning on Data Science
 - 💞️ I’m looking to be and make a career as a Data Scientist
 - 📫 How to reach me :
-      Linkedin : inkedin.com/in/mrifqi67/
+      - Linkedin : inkedin.com/in/mrifqi67/
       
 Hello githubers, perkenalkan nama lengkap saya Muhammad Rifqi A'la. Saya merupakan lulusan Statistika, Universitas Padjadjaran. Saya dinyatakan lulus pada tanggal 14 Februari 2020 dan melakukan wisuda pada tanggal 5 Agustus 2020 secara daring. Saya suka banget dengan analisis data dan saya orangnya penasaran banget hehee.
 
