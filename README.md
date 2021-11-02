@@ -19,4 +19,4 @@ dan masih banyak quotes-quotes lain yang bagus..
 
 Untuk kedepannya, saya akan memposting mengenai statistika dan analisis data secara acak yaa. Karena menurut saya, hal tersulit dalam menulis itu adalah memulai haha XD
 
-Semua kode yang Saya pernah buat disini, pure karena saya modify it. Ada 2 programmer, yang satu adalah create the code dan yang kedua adalah modify the code. Feel free to share all my code that i had created here, karena Saya juga lagi belajar dan sangat senang bisa membantu walaupun hanya sedikit. GoodLuck and Happy Learning :)
+Semua kode yang Saya pernah buat disini, pure karena saya modify it. Ada 2 programmer, yang satu adalah create the code dan yang kedua adalah modify the code. Feel free to share all my code that i had created here, karena Saya juga lagi belajar dan sangat senang bisa membantu walaupun hanya sedikit. Saya mohon maaf apabila dalam memposting suatu materi, hanya begitu singkat. GoodLuck, Happy Sharing, and Happy Learning :)
