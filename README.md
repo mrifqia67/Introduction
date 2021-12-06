@@ -11,9 +11,9 @@ Hello githubers, perkenalkan nama lengkap saya Muhammad Rifqi A'la. Saya merupak
 
 Sejak SD, saya memang suka dengan matematika, malahan dulu pernah ditawarin ikut olimpiade pada saat SMP dan SMA haha. Kemudian saat kuliah, saya lebih memilih statistika, karena memang saya sukanya matematika yang bersifat aplikatif. Alhamdulillah saya lulus dengan IPK atau GPA 3.51/4.00 dengan waktu 3 tahun 7 bulan. Entah saya nantinya akan kerja sesuai passion saya atau tidak, saya akan tetap menulis, karena saya cukup suka menulis (dulu saya bingung ya mau nulis gimana, ada kode-kode pemrograman, ada juga story tellingnya, untung saya dipertemukan dengan GitHub. Saya merasa cocok dan mungkin emang jodoh si hehe). Ada beberapa quotes yang mendorong saya untuk suka menulis :
 
-"Orang boleh pandai setinggi langit, tapi selama ia tidak menulis, ia akan hilang dari masyarakat dan dari sejarah. Menulis adalah bekerja untuk keabadian." (Pramoedya Ananta Toer)
+> "Orang boleh pandai setinggi langit, tapi selama ia tidak menulis, ia akan hilang dari masyarakat dan dari sejarah. Menulis adalah bekerja untuk keabadian." (Pramoedya Ananta Toer)
 
-"Semua orang akan mati kecuali karyanya, maka tulislah sesuatu yang akan membahagiakan dirimu di akhirat kelak". - Ali bin Abi Thalib
+> "Semua orang akan mati kecuali karyanya, maka tulislah sesuatu yang akan membahagiakan dirimu di akhirat kelak". - Ali bin Abi Thalib
 
 dan masih banyak quotes-quotes lain yang bagus..
 
